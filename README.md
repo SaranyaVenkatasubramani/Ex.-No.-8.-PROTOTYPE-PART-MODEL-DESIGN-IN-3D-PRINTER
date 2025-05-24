@@ -47,11 +47,10 @@
 
 ## Output:
 
-![Screenshot 2025-05-06 090459](https://github.com/user-attachments/assets/47919621-dd6c-4ebf-85b8-d7533dbee9ab)
 
-![Screenshot 2025-05-06 090513](https://github.com/user-attachments/assets/30fc84a6-5e2e-4812-ae82-6b02591ba26b)
+![Screenshot 2025-05-24 122443](https://github.com/user-attachments/assets/be324fb9-6408-4ba9-9f34-701022e90ff8)
 
-
+![Screenshot 2025-05-24 122457](https://github.com/user-attachments/assets/b314f368-9f3b-43ad-8c4c-c984f61ed36a)
 
 ### Name:SARANYA AV
 ### Register Number: 212224040297
